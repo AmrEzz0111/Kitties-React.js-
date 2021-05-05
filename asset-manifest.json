@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Kitties-React.js-/static/css/main.43e105fb.chunk.css",
+    "main.js": "/Kitties-React.js-/static/js/main.2d5aea46.chunk.js",
+    "main.js.map": "/Kitties-React.js-/static/js/main.2d5aea46.chunk.js.map",
+    "runtime-main.js": "/Kitties-React.js-/static/js/runtime-main.5e19e41e.js",
+    "runtime-main.js.map": "/Kitties-React.js-/static/js/runtime-main.5e19e41e.js.map",
+    "static/js/2.b67781cd.chunk.js": "/Kitties-React.js-/static/js/2.b67781cd.chunk.js",
+    "static/js/2.b67781cd.chunk.js.map": "/Kitties-React.js-/static/js/2.b67781cd.chunk.js.map",
+    "static/js/3.a3ddf0c8.chunk.js": "/Kitties-React.js-/static/js/3.a3ddf0c8.chunk.js",
+    "static/js/3.a3ddf0c8.chunk.js.map": "/Kitties-React.js-/static/js/3.a3ddf0c8.chunk.js.map",
+    "index.html": "/Kitties-React.js-/index.html",
+    "static/css/main.43e105fb.chunk.css.map": "/Kitties-React.js-/static/css/main.43e105fb.chunk.css.map",
+    "static/js/2.b67781cd.chunk.js.LICENSE.txt": "/Kitties-React.js-/static/js/2.b67781cd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5e19e41e.js",
+    "static/js/2.b67781cd.chunk.js",
+    "static/css/main.43e105fb.chunk.css",
+    "static/js/main.2d5aea46.chunk.js"
+  ]
+}
